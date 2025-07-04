@@ -1,0 +1,7 @@
+Tan Ah Gao~Pepsi=2,V-Soy Soya Bean Milk=1,TAO KAE NOI Seaweed Tom Yum Goong=10,Bawang Merah Kecil Thai=5~No99,Jalan Good,Taman Best,56000,Cheras,Kuala Lumpur,Malaysia~tag@gmail.com~60123456789~paid~delivered~received~
+Lee Ah Mao~Pepsi Zero Sugar=1~No 88,Taman Bandar KL,56000,Cheras,Kuala Lumpur,Malaysia~lam12234@gmail.com~6015614369~paid~delivered~not received~
+Tan Ah Gao~Whiskas Pouch Ocean Fish=1,Chipsmore Biscuits Double Choc Chip=10,TAO KAE NOI Seaweed Tom Yum Goong=10,Pepsi=2~No99,Jalan Good,Taman Best,56000,Cheras,Kuala Lumpur,Malaysia~tag@gmail.com~60123456789~paid~delivered~received~
+Chan Nee Heng~AAA Lychee=2,Lettuce Iceberg=1,Ramly Chicken Burger=2~No 100,Jalan Hot,Taman Comfortable,56000,Cheras,Kuala Lumpur,Malaysia~cnh88@yahoo.com~60193267895~paid~delivered~not received~
+James~Pepsi Zero Sugar=1,V-Soy Soya Bean Milk=10,Ramly Chicken Burger=2,Chipsmore Biscuits Double Choc Chip=5~No95, Taman Comfortable, 71000, Port Dickson, Negeri Sembilan~james@outlook.com~60171258763~paid~not delivered~not received~
+Tan Ah Gao~Chipsmore Biscuits Double Choc Chip=20~No99,Jalan Good,Taman Best,56000,Cheras,Kuala Lumpur,Malaysia~tag@gmail.com~60172697631~paid~not delivered~not received~
+Handsome Boy~Pepsi Zero Sugar=1,Nestle Koko krunch=2,Nescafe Ice Coffee Mocha Can=1,Whiskas Pouch Ocean Fish=5~No199,Jalan The Best.Taman Naruto,71000,Port Dickson, Negeri Sembilan~narutothebest@gmail.com~60194873658~paid~delivered~not received~

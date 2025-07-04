@@ -1,0 +1,7 @@
+AM000001~John~Male~john@gmail.com~60123456789~Admin~
+AM000002~James~Male~ja@gmail.com~60124563245~Admin~
+SM000003~Christine~Female~tine@gmail.com~60171245345~Sales_Manager~
+PM000004~John~Male~john@gmail.com~60124358694~Purchase_Manager~
+SM000005~Kee~Female~kee@gmail.com~60171685345~Sales_Manager~
+SM000006~Kent~Male~kk@gmail.com~60124956940~Sales_Manager~
+SM000007~Billy~Male~billy@gmail.com~60129586347~Sales_Manager~

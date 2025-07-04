@@ -1,0 +1,22 @@
+I000001~Pepsi Zero Sugar~Beverages~5 Aug 2025~RM 3.79~190~1.5L~S000001
+I000003~Gardenia Original Classic Jumbo~Bread/Bakery~5 Oct 2023~RM 4.30~200~600g~S000001
+I000004~Lady's Choice Peanut Butter Chocolate~Bread/Bakery~5 Oct 2023~RM 7.29~200~175g~S000001
+I000005~Hosen Longgan~Canned Food~15 Aug 2024~RM 9.79~200~565g~S000001
+I000006~AAA Lychee~Canned Food~15 Aug 2024~RM 5.99~198~565g~S000002
+I000007~Nestle Koko krunch~Cereal~20 Aug 2024~RM 7.99~198~170g~S000002
+I000008~Prai Coarse Grain Sugar~Cooking ingredient~20 Aug 2025~RM 2.85~200~1kg~S000001
+I000009~Knife Cooking Oil~Cooking ingredient~20 Aug 2025~RM 19.69~200~2kg~S000002
+I000010~Anchor Pure New Zealand Butter~Dairy~9 Nov 2023~RM 12.70~230~227g~S000002~
+I000011~Chesdale Cheese Plain~Dairy~9 Nov 2023~RM 6.95~200~6 slices 125g~S000002
+I000012~Ramly Chicken Burger~Frozen Food~10 Dec 2023~RM 8.00~191~6 slices 360g~S000001
+I000013~Apple Fuji~Fruit~best within 2 week~RM 9.99~197~8 apples per each packet;Gred:1 Size:S~S000002
+I000014~KoolFever Refreshing Mint~Health/Beauty~20 Jan 2024~RM 13.11~200~6 slices~S000002
+I000015~Panadol Soluble~Health/Beauty~22 Feb 2025~RM 15.50~198~20 tablets~S000001
+I000016~SAN REMO Angel Hair Spaghetti~Instant Food~2 Feb 2025~RM 4.95~200~500g~S000002
+I000017~TAO KAE NOI Seaweed Tom Yum Goong~Snack~15 Feb 2023~RM 5.49~190~32.5g~S000001
+I000018~KBL Jumbo Chilli Sauce~Sauce/Seasoning~15 Feb 2025~RM 5.95~198~725g~S000002
+I000019~Lettuce Iceberg~Vegetable~best within 2 weeks~RM 3.60~199~one each~S000001
+I000020~Bawang Merah Kecil Thai~Vegetable~best before one month~RM 5.99~200~500g~S000002
+I000021~Whiskas Pouch Ocean Fish~Others~5 Aug 2023~RM 2.20~194~i change this~S000001
+I000022~abc~dessert~20-Aug-2024~RM 12~7~sweet~S000001~
+I000023~Starbucks~Beverages~19-Jan-2024~RM 16~12~250ml~S000001

@@ -1,0 +1,26 @@
+Beverages~Pepsi Zero Sugar~5 Aug 2023~RM3.79~97~1.5L~
+Beverages~V-Soy Soya Bean Milk~5 Aug 2023~RM5.45~0~1L~
+Beverages~Nescafe Ice Coffee Mocha Can~3 Mar 2023~RM4.40~199~400ml~
+Beverages~Pepsi~5 Aug 2023~RM3.79~200~1.5L~
+Bread/Bakery~Gardenia Original Classic Jumbo~5 Oct 2022~RM4.30~200~600g~
+Bread/Bakery~Lady's Choice Peanut Butter Chocolate~5 Oct 2023~RM7.29~200~175g~
+Baking Ingredient~Star Brand Pandan Flavour~15 Oct 2023~RM2.50~200~25ml~
+Canned Food~Hosen Longgan~15 Aug 2024~RM9.79~200~565g~
+Canned Food~AAA Lychee~15 Aug 2024~RM5.99~198~565g~
+Cereal~Nestle Koko krunch~20 Aug 2024~RM7.99~198~170g~
+Cooking ingredient~Prai Coarse Grain Sugar~20 Aug 2025~RM2.85~200~1kg~
+Cooking ingredient~Knife Cooking Oil~20 Aug 2025~RM19.69~200~2kg~
+Dairy~Anchor Pure New Zealand Butter~9 Nov 2023~RM12.70~200~227g~
+Dairy~Chesdale Cheese Plain~9 Nov 2023~RM6.95~200~6 slices 125g~
+Frozen Food~Ramly Chicken Burger~10 Dec 2023~RM8.00~191~6 slices 360g~
+Fruit~Apple Fuji~best within 2 week~RM9.99~197~8 apples per each packet;Gred:1 Size:S~
+Health/Beauty~KoolFever Refreshing Mint~20 Jan 2024~RM13.11~200~6 slices~
+Health/Beauty~Panadol Soluble~22 Feb 2025~RM15.50~198~20 tablets~
+Health/Beauty~LIFEBUOY HW Total Protect~22 Feb 2025~RM6.99~0~200ml~
+Instant Food~SAN REMO Angel Hair Spaghetti~2 Feb 2025~RM4.95~200~500g~
+Snack~TAO KAE NOI Seaweed Tom Yum Goong~15 Feb 2023~RM5.49~190~32.5g~
+Snack~Chipsmore Biscuits Double Choc Chip~2 Feb 2023~RM5.50~965~153g~
+Sauce/Seasoning~KBL Jumbo Chilli Sauce~15 Feb 2025~RM5.95~198~725g~
+Vegetable~Lettuce Iceberg~best within 2 weeks~RM3.60~199~one each~
+Vegetable~Bawang Merah Kecil Thai~best before one month~RM5.99~200~500g~
+Others~Whiskas Pouch Ocean Fish~5 Aug 2023~RM2.20~194~80g~
